@@ -1,0 +1,63 @@
+[
+    {
+        "Name": "Super University",
+        "Employees": [
+           
+           
+           
+           
+           
+            {
+                "FirstName" : "Anna",
+                "Lastname" : "Berzina",
+                "Contacts": [
+                    {
+                        "Phone": "+37129503458",
+                        "Email": "anna.berzina@gmail.com"
+                    }
+                ]
+            },
+
+
+
+
+            {
+                "FirstName" : "LOL",
+                "Lastname" : "Nuts",
+                "Contacts": [
+                    {
+                        "Phone": "+37129879869646357658",
+                        "Email": "mmmmmmmmmmm@gmail.com"
+                    }
+                ]
+            }
+        ]
+    },
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    {
+        "Name": "Rocket startup",
+        "Employees":[
+            {
+                "FirstName" : "Miks",
+                "Lastname" : "Founder",
+                "Contacts": [
+                    {
+                        "Phone": "+37132403458",
+                        "Email": "miks.founder@gmail.com"
+                    }
+                ]
+            }
+        ]
+    }
+
+
+]
